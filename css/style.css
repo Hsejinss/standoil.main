@@ -1120,8 +1120,8 @@
         top: 40%;
         transform: translate(-50%, -40%) scale(0.8);
     }
-    .banner-main .right-box{
-        top: 80%;
+    .banner-main .right-box {
+        top: 75%;
     }
     /* sec-2 영역 */
     .sec-2 .right-content .right-main{
@@ -1194,9 +1194,9 @@
         transform: translate(-50%, -45%) scale(0.7);
     }
     /* sec-1 영역 */
-    .sec-1{
+    /* .sec-1{
         margin-top: 70px;
-    }
+    } */
     .sec-1 .right-content .title{
         padding-left: 25px;
     }
