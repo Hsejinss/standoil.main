@@ -183,7 +183,7 @@
 }
 /* product-title 영역 */
 .sec-1 .right-content .title{
-    padding-top: 150px;
+    padding-top: 100px;
     padding-left: 75px;
     box-sizing: border-box;
 }
@@ -1121,7 +1121,7 @@
         transform: translate(-50%, -40%) scale(0.8);
     }
     .banner-main .right-box {
-        top: 75%;
+        top: 80%;
     }
     /* sec-2 영역 */
     .sec-2 .right-content .right-main{
@@ -1310,4 +1310,15 @@
     .footer-txt{
         font-size: 0.65rem;
     }
+    /* 상단버튼 */
+    .go-to-top{
+        width: 90px;
+        height: 90px;
+        right: 30px;
+    }
+    .go-to-top .rotate-btn {
+        width: 90px;
+        height: 90px;
+    }
+    
 }
