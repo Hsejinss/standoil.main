@@ -1210,7 +1210,12 @@
         width: 18px;
         height: 18px;
     }
-
+    .sec-1 .right-content .category{
+        font-size: 1rem;
+    }
+    .sec-1 .right-content .sub-title{
+        font-size: 0.875rem;
+    }
     /* sec-2영역 */
     .sec-2 .left-content{
         padding-top: 0;
