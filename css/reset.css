@@ -13,7 +13,7 @@
 html, body{
     color: #222;
     font-family: 'Noto Sans KR', sans-serif;
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
 }
 ul,li,ol{
     list-style: none;
