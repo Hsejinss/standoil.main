@@ -1180,6 +1180,9 @@
     }
 }
 @media (max-width: 450px){
+    .banner{
+        height: 100%;
+    }
     .logo-wrap .logo{
         width: 110px;
     }
@@ -1205,6 +1208,12 @@
     }
     .sec-1 .right-content .content-box .txt-box span{
         font-size: 0.75rem;
+    }
+    .sec-1 .right-content .content-box .txt-box p{
+        font-size: 0.9rem;
+    }
+    .sec-1 .color-box{
+        margin-top: 15px;
     }
     .sec-1 .color-box span{
         width: 18px;
