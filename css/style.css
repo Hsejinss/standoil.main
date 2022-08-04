@@ -173,8 +173,9 @@
     width: 50%;
 }
 .sec-1 .left-main.active{
-    position: sticky;
+    position: fixed;
     top: 0;
+    z-index: -9;
 
     height: 100vh;
 }
@@ -345,6 +346,7 @@
     flex-direction: column;
     padding: 120px 0;
     box-sizing: border-box;
+    background-color: #fff;
 }
 .sec-2 .right-content{
     width: 50%;
